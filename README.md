@@ -1,2 +1,2 @@
-# LandingPage-SafeTech
+# LandingPage-RopasDeportivas
 # Proyecto
